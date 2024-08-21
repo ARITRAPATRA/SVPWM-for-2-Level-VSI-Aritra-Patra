@@ -1,0 +1,1 @@
+Space vector pulse width modulation (PWM) technique is suitable for fundamental switching frequency as well as high frequency applications. This modulation technique produces good quality output waveforms in terms of low voltage and current THD.
